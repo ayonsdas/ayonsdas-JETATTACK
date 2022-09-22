@@ -1,0 +1,15 @@
+Player: A
+Kills:
+	B 0
+Deaths:
+	B 1
+K/D: 0.000
+
+Player: B
+Kills:
+	A 1
+Deaths:
+	A 0
+K/D: 1.000
+
+END
